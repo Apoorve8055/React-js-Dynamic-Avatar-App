@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi&display=Gugi');
+
+.AvatarBody {
+    font-family: 'Gugi', cursive;
+
+}
+
+.AvatarBody img {
+    width: 200px;
+    height: 200px;
+}
+
+.AvatarBody h2, p {
+    text-align: center;
+
+}
+
+.MainAvatarBox h1 {
+
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+}
