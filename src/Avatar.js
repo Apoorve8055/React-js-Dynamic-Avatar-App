@@ -54,7 +54,7 @@ class Avatar extends React.Component {
                 <div>
                     {AvatarlistArrayCard}
                 </div>
-                <button className="no-underline grow pa3 br2 bg-blue white mr3 mb3 dib" onClick={() => {
+                <button align="center" className="no-underline grow pa3 br2 bg-blue white mr3 mb3 dib" onClick={() => {
                     this.ChangeState();
                 }}> Subscribe
                 </button>
