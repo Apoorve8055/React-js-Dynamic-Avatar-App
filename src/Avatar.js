@@ -31,7 +31,7 @@ class Avatar extends React.Component {
             },
             {
                 id: 3,
-                name: "vikash",
+                name: "vikas",
                 work: "Network Eng."
             }
             ,
